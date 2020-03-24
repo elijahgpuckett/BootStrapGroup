@@ -45,5 +45,14 @@ h2 .about_info{
     margin: 50px 0px;
   }
 
+  div .content {
+      background-color: #5c7c91;
+  }
+
   .row {
       border: 1px solid black;
+  }
+
+  h1 .opening {
+
+  }
