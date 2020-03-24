@@ -1,0 +1,49 @@
+h2 .about_info{
+    padding: 24px 0px;
+}
+
+.jumbotron{
+    background: 
+  linear-gradient(to right,
+  #5c7c91, 
+  #df7562
+  )
+  }
+
+.section1 {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 68rem;
+    padding: 22rem 0;
+    background-image: url(https://tinyhorse.com/wp-content/uploads/2019/12/Careers-header.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .section1 h1{
+    text-shadow: 10px 10px 6px black;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .container1 {
+      padding: 0px 20px;
+      margin: 0px 50px;
+  }
+
+  div .flex_column {
+    z-index: 1;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    width: 100%;
+    padding: 20px 20px;
+    margin: 50px 0px;
+  }
+
+  .row {
+      border: 1px solid black;
